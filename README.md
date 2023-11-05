@@ -10,5 +10,8 @@ Ghidra can be downloaded [here](https://github.com/NationalSecurityAgency/ghidra
 Not a complete theme. If you want something new just send me an issue or pull request.
 
 ## Preview
+
+*Please ignore the watermark at the bottom right. That was just for fun.*
+
 ![img](./Screenshot_20231105_130348.png)
 
